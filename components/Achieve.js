@@ -6,7 +6,7 @@ function Achieve() {
         <div className="bg-orange-100 mt-12 py-24">
             <div className="max-w-6xl xl:mx-auto mx-5 text-xl text-center font-bold text-black">
                 <h1>Whatever you want to achieve,</h1>
-                <h2>Youth India Foundation's community will help you reach it.</h2>
+                <h2>Youth India Foundation&apos;s community will help you reach it.</h2>
 
                 <div className="my-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-5 gap-y-5">
                     <div className="bg-white flex justify-around items-center px-5 py-8 rounded-lg shadow-lg">

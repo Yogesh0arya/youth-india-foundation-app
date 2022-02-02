@@ -18,7 +18,7 @@ function StateCards() {
                 <div className="card group">
                     <img src="/odisha.png" alt="image" className="cardImg" />
                     <h1 className="cardHeading">Odisha</h1>
-                    <p className="hidden text-xs sm:text-sm group-hover:inline-block">Youth Odisha has aided Youth India Foundation in marketing the world a better place to live in every manner imaginable. They have recognized the power that youth possesses and have utilized it to bring smilies to many people's faces.</p>
+                    <p className="hidden text-xs sm:text-sm group-hover:inline-block">Youth Odisha has aided Youth India Foundation in marketing the world a better place to live in every manner imaginable. They have recognized the power that youth possesses and have utilized it to bring smilies to many people&apos;s faces.</p>
                 </div>
                 <div className="card group">
                     <img src="/maharastra.png" alt="image" className="cardImg" />
@@ -33,7 +33,7 @@ function StateCards() {
                 <div className="card group">
                     <img src="/delhi.png" alt="image" className="cardImg" />
                     <h1 className="cardHeading">Delhi</h1>
-                    <p className="hidden text-xs sm:text-sm group-hover:inline-block">We make, a living from what we get, but we make a life from what we give, "Youth India Delhi" is a team of dedicated members who are working towards addressing Delhi's social, cultural, and environmental issues. The goal of Youth India Delhi is to bring young peoples from all areas of life together.</p>
+                    <p className="hidden text-xs sm:text-sm group-hover:inline-block">We make, a living from what we get, but we make a life from what we give, &quot;Youth India Delhi&quot; is a team of dedicated members who are working towards addressing Delhi&apos;s social, cultural, and environmental issues. The goal of Youth India Delhi is to bring young peoples from all areas of life together.</p>
                 </div>
                 <div className="card group">
                     <img src="/west bengal.png" alt="image" className="cardImg" />
