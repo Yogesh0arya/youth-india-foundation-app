@@ -30,7 +30,7 @@ function Services() {
                         <img src="/E-School.png" alt="image" className=" object-contain h-16 md:h-24 rounded-t-xl" />
                         <h1>E-School</h1>
                     </div>
-                    <p className="text-sm sm:text-md">Distance is no barrier in the way of education. Youth India Foundation’s initiative to help the society by providing study materials and guidance to every being despite anything. Because a better tomorrow starts with today.</p>
+                    <p className="text-sm sm:text-md">Distance is no barrier in the way of education. Youth India Foundation&apos;s initiative to help the society by providing study materials and guidance to every being despite anything. Because a better tomorrow starts with today.</p>
                     <button className="rounded-full px-4 py-2 border-2 border-orange-600 text-orange-600">Learn More</button>
                 </div>
             </div>
