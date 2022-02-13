@@ -24,7 +24,7 @@ function OurTeam() {
                         <div className="relative">
                             <h1 className="p-2">Co-Founder</h1>
                             <h1 className="text-white p-2 text-xl sm:text-2xl font-bold">Aanis Narnolia</h1>
-                            <p className="absolute p-2 bg-black bg-opacity-80 z-10 ">I've always believed that every nook and cranny has a story waiting to be told and I am set to make sure those beautiful stories are heard</p>
+                            <p className="absolute p-2 bg-black bg-opacity-80 z-10 ">I&apos;ve always believed that every nook and cranny has a story waiting to be told and I am set to make sure those beautiful stories are heard</p>
                         </div>
                     </div>
                 </div>
